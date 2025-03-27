@@ -12,5 +12,7 @@ Location of Impact: 24.80N, 1960E 
    EMIRS - EMM Hope Mission
    KRC: MARS Thermal Model used to calculate Thermal Inertia from the EMM data
 
-4. 
+4. Geospatial data analysis: Condense and create average numpy maps of thermal inertia from large Themis files
+
+5. 
 
