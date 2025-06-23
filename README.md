@@ -17,4 +17,6 @@ Location of Impact: 24.80N, 1960E 
 
 5. Surface Temperature Comparison Analysis: Compare Surface Temperatures observed by EMIRS for Ls: 0 to 20 for MY 37, with those
    estimated by Mars Climate Database model (MCD v6.1)
+   <img width="1009" alt="image" src="https://github.com/user-attachments/assets/ae464bce-c05e-42cd-b088-ba4a797da9ab" />
+
 
