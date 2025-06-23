@@ -10,6 +10,9 @@ Location of Impact: 24.80N, 1960E 
 
 <img width="994" alt="image" src="https://github.com/user-attachments/assets/68f32d5a-76a3-41f1-8ac8-37611dd0561c" />
 
+<img width="855" alt="image" src="https://github.com/user-attachments/assets/ff911c72-6294-4df9-a506-9698888e254c" />
+
+
    
 4. Geospatial data analysis: Compare thermal inertia maps from multiple Mars Missions
    Themis - Mars Odyssey 
