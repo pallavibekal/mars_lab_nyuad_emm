@@ -4,6 +4,7 @@ Useful snippets of code and functionalities used in my data analysis based role 
 1. Impact Analysis: Meteoroid Impact Analysis on EMM Data 
 Date of Impact: 24th December 2021 
 Location of Impact: 24.80N, 1960E 
+<img width="994" alt="image" src="https://github.com/user-attachments/assets/27cd0cf1-d68c-4ec4-9a97-d41101b99da2" />
 
 2. EXI Image exploration from the sdc emirates mission database
    
